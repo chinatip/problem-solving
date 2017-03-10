@@ -1,2 +1,2 @@
-# practice-problem-solving
+# problem-solving
 Collection of my solutions for some problems on Codeforces
